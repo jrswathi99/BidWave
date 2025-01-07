@@ -125,11 +125,4 @@ Follow these steps to set up and run the project:
 
 Make sure both the frontend and backend are running to fully interact with the application.
 
-recording and ppt: https://northeastern-my.sharepoint.com/:f:/g/personal/jinkaradhakrishna_s_northeastern_edu/ErrmuoIisCZGnV3rD2F0pFkBJHQfJxWIeyGPCZfJJdZnfg?e=gZpSIx
 
-## Team Members
-
-- Aadarsh Ravi(ravi.add@northeastern.edu)
-- Rohan Reddy Patlolla(patlolla.ro@northeastern.edu)
-- Rahul Reddy Patlolla(patlolla.ra@northeastern.edu)
-- Swathi Jinka Radhakrishna(jinkaradhakrishna.s@northeastern.edu)
